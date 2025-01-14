@@ -20,6 +20,9 @@ class Player():
         self.level = value
     
     def set_inventory(self, value):
+        self.inventory = value
+    
+    def add_to_inventory(self, value):
         self.inventory += value
 
     def playe_move_north(self):
