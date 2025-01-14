@@ -1,2 +1,7 @@
 w w w w w w w
-w 0 w 2 e 0 w
+w 0 0 0 0 0 w
+w w w 0 w 0 w
+w 0 0 0 w 0 w
+w w w w w 0 w
+w 0 0 0 0 0 w
+w w w w w w w
